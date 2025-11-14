@@ -35,7 +35,7 @@ Install packages & import libraries – Setup Google Colab environment.
 
 Upload & load dataset – Import CSV dataset into Colab.
 
-Data inspection – Check dataset structure, types, and missing values.
+Data loading/inspection – Check dataset structure, types, and missing values.
 
 Exploratory Data Analysis (EDA) – Summarize distributions and relationships.
 
